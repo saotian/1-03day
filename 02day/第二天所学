@@ -1,0 +1,9 @@
+硬链接 ln hear  源文件
+软链接 ln -s soft  源文件
+查找字母/字 grep     -n行    -v反   -i忽略大小写
+重命名 mv 
+移动 mv/
+查找文件 find ./-name加查找的文件
+复制 cp
+
+

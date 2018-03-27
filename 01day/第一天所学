@@ -1,0 +1,12 @@
+历史记录     history
+创建文件夹   mkdir
+创建文件     touch
+编辑文件     gedit
+删除文件夹   rmdir
+返回上一步   cd ..
+显示当前目录 cd .
+返回开始     cd  cd ~
+恢复上一步   cd -
+查看文件     ls
+查看文档     cat
+清屏         clear
