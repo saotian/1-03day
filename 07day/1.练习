@@ -1,0 +1,5 @@
+password = int(input("请输入密码"))
+if password = 333333:
+　　print = ("登录到界面")
+else:
+    print = ("登录失败")

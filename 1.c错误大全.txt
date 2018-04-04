@@ -1,0 +1,11 @@
+顺序不对
+尹天
+男
+170
+110
+Traceback (most recent call last):
+  File "01个人信息.txt", line 11, in <module>
+    print(sge)
+NameError: name 'sge' is not defined
+
+
